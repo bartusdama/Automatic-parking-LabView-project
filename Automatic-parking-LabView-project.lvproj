@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Automatic-parking-main.vi" Type="VI" URL="../Automatic-parking-main.vi"/>
 		<Item Name="menu.vi" Type="VI" URL="../subVI/menu.vi"/>
+		<Item Name="time-to-array.vi" Type="VI" URL="../subVI/time-to-array.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -57,7 +58,6 @@
 			<Item Name="CoinInsert.vi" Type="VI" URL="../../Automatic2/subVI/CoinInsert.vi"/>
 			<Item Name="enter-registration1.vi" Type="VI" URL="../subVI/enter-registration1.vi"/>
 			<Item Name="enter-registration2.vi" Type="VI" URL="../subVI/enter-registration2.vi"/>
-			<Item Name="menu-start.vi" Type="VI" URL="../subVI/menu-start.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
