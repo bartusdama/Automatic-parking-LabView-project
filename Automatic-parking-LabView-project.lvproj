@@ -12,7 +12,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Automatic-parking-main.vi" Type="VI" URL="../Automatic-parking-main.vi"/>
-<<<<<<< HEAD
 		<Item Name="menu.vi" Type="VI" URL="../subVI/menu.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -59,11 +58,6 @@
 			<Item Name="enter-registration1.vi" Type="VI" URL="../subVI/enter-registration1.vi"/>
 			<Item Name="enter-registration2.vi" Type="VI" URL="../subVI/enter-registration2.vi"/>
 			<Item Name="menu-start.vi" Type="VI" URL="../subVI/menu-start.vi"/>
-=======
-		<Item Name="enter-registration.vi" Type="VI" URL="../enter-registration.vi"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="enter-registration1.vi" Type="VI" URL="../subVI/enter-registration1.vi"/>
->>>>>>> 3064771d2acefa29944fa13e2255364053115068
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
